@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: notebook
 title: 数据链路层
 categories: [cate1, cate2]
 description: 数据链路层笔记
