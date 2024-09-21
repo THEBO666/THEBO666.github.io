@@ -4,12 +4,6 @@ title: 数据链路层
 categories: [cate1, cate2]
 description: 数据链路层笔记
 keywords: 计算机网络，数据链路层
-mermaid: false
-sequence: false
-flow: false
-mathjax: false
-mindmap: false
-mindmap2: false
 ---
 
 # 数据链路层
