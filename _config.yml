@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://thebo666.github.io/
+url: https://thebo666.github.io
 date_format: "ordinal"
 title: Libo's Blog
 #subtitle: "公众号：闷骚的程序员"
@@ -84,6 +84,11 @@ navs:
   -
     href: /open-source/
     label: 开源
+    mobile-hidden: true
+
+  -
+    href: /notebook/
+    label: 笔记
     mobile-hidden: true
 
 #   -
