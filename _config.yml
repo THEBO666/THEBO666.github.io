@@ -189,10 +189,10 @@ beaudar:
     repo: mzlogin/blog-comments
 # giscus 配置参考：https://giscus.app/zh-CN
 giscus:
-    repo: mzlogin/blog-comments
-    repo-id: MDEwOlJlcG9zaXRvcnk5MzEyNzkxNw==
+    repo: THEBO666/THEBO666.github.io
+    repo-id: R_kgDOM0_Ffg
     category: Announcements
-    category-id: DIC_kwDOBY0E7c4CRtg9
+    category-id: DIC_kwDOM0_Ffs4Ciqr3
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
