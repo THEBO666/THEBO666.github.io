@@ -13,7 +13,7 @@ encoding: "utf-8"
 # 页面左下角显示的年份
 since: 2015
 # 源码仓库，请替换成自己的
-repository: mzlogin/mzlogin.github.io
+#repository: mzlogin/mzlogin.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -95,13 +95,13 @@ navs:
     label: 维基
 
   -
-    href: /links/
-    label: 链接
-    mobile-hidden: true
+#     href: /links/
+#     label: 链接
+#     mobile-hidden: true
 
-  -
-    href: /about/
-    label: 关于
+#   -
+#     href: /about/
+#     label: 关于
 
 # ---------------- #
 #       RSS        #
