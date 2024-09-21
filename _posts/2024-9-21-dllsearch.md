@@ -1,7 +1,7 @@
 ---
-layout: wiki
+layout: post
 title: 数据链路层
-categories: [cate1, cate2]
+categories: [计算机网络]
 description: 数据链路层笔记
 keywords: 计算机网络，数据链路层
 ---
