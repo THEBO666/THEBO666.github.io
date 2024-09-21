@@ -1,7 +1,7 @@
 ---
-layout: notebook
+layout: post
 title: 数据链路层
-#categories: [cate1, cate2]
+categories: [cate1, cate2]
 description: 数据链路层笔记
 keywords: 计算机网络，数据链路层
 mermaid: false
