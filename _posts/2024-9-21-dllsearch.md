@@ -1,9 +1,9 @@
 ---
-layout: post
-title: template page
-categories: [cate1, cate2]
-description: some word here
-keywords: keyword1, keyword2
+layout: notebook
+title: 数据链路层
+#categories: [cate1, cate2]
+description: 数据链路层笔记
+keywords: 计算机网络，数据链路层
 mermaid: false
 sequence: false
 flow: false
