@@ -210,11 +210,11 @@ simple_jekyll_search:
 #      Google      #
 # ---------------- #
 google:
-    analytics_id: # G-1N9SKVZ5CV
+    analytics_id: G-1N9SKVZ5CV
     adsense:
-        enabled: true
-        footer: true
-        sidebar: true
-        sidebar-detail: true
-        content_header: true
-        content_footer: true
+        enabled: false
+        footer: false
+        sidebar: false
+        sidebar-detail: false
+        content_header: false
+        content_footer: false
