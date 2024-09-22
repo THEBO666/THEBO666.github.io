@@ -1,7 +1,8 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl:
+
+#baseurl:
 url: https://thebo666.github.io
 date_format: "ordinal"
 title: Libo's Blog
@@ -63,7 +64,8 @@ organization_url:
 github_username: THEBO666
 location: Earth
 email: llb333666999@163.com
-
+# Google Analytics
+google_analytics: G-1N9SKVZ5CV
 # ---------------- #
 #    Navigation    #
 # ---------------- #
