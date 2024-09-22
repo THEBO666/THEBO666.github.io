@@ -64,8 +64,7 @@ organization_url:
 github_username: THEBO666
 location: Earth
 email: llb333666999@163.com
-# Google Analytics
-google_analytics: G-1N9SKVZ5CV
+
 # ---------------- #
 #    Navigation    #
 # ---------------- #
@@ -211,7 +210,7 @@ simple_jekyll_search:
 #      Google      #
 # ---------------- #
 google:
-    analytics_id: # G-20FLEG5Q2W
+    analytics_id: # G-1N9SKVZ5CV
     adsense:
         enabled: false
         footer: false
